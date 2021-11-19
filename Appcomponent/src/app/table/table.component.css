@@ -1,0 +1,9 @@
+table, th, td {
+    border: 6px solid blue;
+  }
+  table.left {
+    margin-left: auto; 
+    margin-right: auto;
+    padding: 10px;
+    width: 100%
+  }
